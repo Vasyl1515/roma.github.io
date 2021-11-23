@@ -1,0 +1,1249 @@
+*{
+
+	margin: 0;
+	padding: 0;
+
+}
+
+.panel{
+	border: 1px solid black;
+    justify-content: center;
+	align-items: center;
+	position: relative;
+
+	} 
+
+.list{
+	display: flex;
+	list-style: none;
+	bottom: 20px;
+	position: relative;
+	width: 55%;
+	left: 350px;
+}
+.Anat{
+	position: relative;
+	left: 45px;
+	top:20px;
+	
+	width: 11%
+
+}
+.key1{
+	padding:5px;
+	margin:5px;
+} 
+.key2{
+	padding:5px;
+	margin:5px;
+}
+.face{
+	float: right;
+	position: relative;
+	bottom: 55px;
+	margin-right: 50px;
+}
+
+.foto{
+	border: 1px solid black;
+	background: url(For.png) no-repeat center center;
+	 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	height: 300px;
+	width: 99.8%;
+	position: relative;
+	
+
+}
+
+.body{
+	border:1px solid black;
+	height: 3753px;
+	width: 99.8%;
+	position: relative;
+	background: #d9d7d7f9;
+
+}
+.central{
+	background: #d9d7d7f9;
+	height: 70px;
+}
+	input {
+  color: #B6C0A5; 
+  font-style: italic; 
+  background: #d9d7d7f9;
+  
+}
+
+.part-one{
+	position: relative;
+	float: right;
+	margin-right: 50px;
+	
+	height: 1000px;
+	width: 40%;
+}
+.menu{
+	position: relative;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    right: 100px;
+
+
+}
+.picture1{
+	position: relative;
+	right: 100px;
+}
+.rot{
+	position: relative;
+	top: 30px;
+	left: 100px;
+	width: 50%;
+
+	
+
+}
+.text{
+	position: relative;
+	justify-content: center;
+    display: flex;
+    align-items: center;
+	bottom: 100px;
+	width: 40%;
+	float: right;
+
+}
+.photo{
+	position: relative;
+	left: 200px;
+    width: 50%;
+    top:57px;
+
+}
+.hr{
+	margin-bottom: 30px;
+
+	position: relative;
+	left: 200px;
+	width: 50%;
+	top:60px;
+}
+
+
+.window{
+	position: relative;
+	top:25px;
+	left: 100px;
+	width: 50%
+   
+}
+.door{
+	position: relative;
+	margin-top: 100px;
+	left: 100px;
+	width: 50%;
+}
+.hr1{
+	margin-bottom: 20px;
+}
+
+.ter{
+	position: relative;
+	left: 100px;
+	
+	width: 50%;
+}
+.galary{
+	position: relative;
+	top:20px;
+
+}
+.mono{
+	top:30px;
+	position: relative;
+	
+	width: 80%;
+	height: 400px;
+	left: 100px;
+}
+.dock{
+	
+	
+}
+.part-two{
+	position: relative;
+	height: 1000%;
+}
+.soft{
+	
+	width: 94.7%;
+}
+.Sasuke{
+	
+	background: url(Doroga.png) no-repeat center center;
+	position: relative;
+	height: 300px;
+	width: 55%;
+	left: 70px;
+}
+.Sasuke1{
+	
+	background: url(people.png) no-repeat center center;
+	position: relative;
+	height: 300px;
+	width: 55%;
+	left: 70px;
+}
+.Sasuke2{
+	
+	background: url(door.png) no-repeat center center;
+	position: relative;
+	height: 300px;
+	width: 55%;
+	left: 70px;
+}
+.Sasuke3{
+	
+	background: url(water.png) no-repeat center center;
+	position: relative;
+	height: 300px;
+	width: 55%;
+	left: 70px;
+}
+
+.txt1{
+	position: relative;
+	left: 75px;
+	margin-top: 20px;
+	width: 50%;
+}
+
+.txt2{
+	position: relative;
+	left: 75px;
+	width: 50%;
+
+}
+.yong{
+	margin-top:15px;
+	position: relative;
+	left: 75px;
+}
+
+.sms{
+
+padding:3px;
+}
+.zmz{
+	display: flex;
+	position: relative;
+	left: 70px;
+}
+.yong2{
+	margin-top:5px;
+	position: relative;
+	left: 75px;
+}
+.rtx{
+	margin-top:20px;
+	position: relative;
+	
+	left: 75px;
+	width: 50%;
+}
+.display{
+	
+	padding:10px;
+	width: 10%;
+	border:3px solid black;
+	position:relative;
+	left: 76.3px;
+	margin-top:20px;
+	display: flex;
+	list-style: none;
+}
+.read{
+	position: relative;
+	left: 15px;
+}
+.display:hover{
+	background: red;
+	color:white;
+}
+
+.soft2{
+
+width: 94.7%;
+}
+
+.none{
+	display: flex;
+	list-style: none;
+	position: relative;
+	left: 330px;
+	width: 50%;
+	bottom: 30px;
+
+}
+.bot{
+	border:1px solid black;
+	padding:10px;
+	margin:10px;
+	width: 4%;
+
+}
+.zxc{
+	position: relative;
+	left: 9px;
+}
+
+.black{
+	height: 700px;
+	background: black;
+	border: 1px solid black;
+	color:white;
+}
+.alan{
+	color:white;
+	margin-top: 50px;
+	position: relative;
+	left: 120px;
+	width: 50%;
+}
+.tooo{
+	width: 30%;
+	position: relative;
+	top:50px;
+	left: 70px;
+
+}
+.rooo{
+	margin-top: 30px;
+}
+.wooo{
+	margin-top: 30px;
+}
+.yooo{
+	margin-top: 30px;
+}
+ .face1{
+ 	margin-top: 40px;
+ }
+
+  
+ 	
+ 
+ input[name="panel"]{
+position: relative;
+ 	left: 600px;
+ 	max-width: 50%;
+ 	width: 350px;
+ 	height: 50px;
+ 	background: black;
+ 	bottom: 350px;
+
+
+ }
+ input[name="pane"]{
+position: relative;
+ 	left: 242px;
+ 	max-width: 50%;
+ 	width: 350px;
+ 	height: 50px;
+ 	background: black;
+ 	bottom: 270px;
+
+ }
+ input[name="pane1"]{
+position: relative;
+ 	left: 270px;
+ 	max-width: 50%;
+ 	width: 350px;
+ 	height: 50px;
+ 	background: black;
+ 	bottom: 270px;
+
+ }
+ input[name="pane12"]{
+position: relative;
+ 	right: 88px;
+ 	max-width: 50%;
+ 	width: 350px;
+ 	height: 50px;
+ 	background: black;
+ 	bottom: 350px;
+
+ }
+ input[name="pane123"]{
+position: relative;
+ 	right: 88px;
+ 	max-width: 50%;
+ 	width: 736px;
+ 	height: 100px;
+ 	background: black;
+ 	bottom: 250px;
+ 	left:600px;
+
+ }
+ .inp{
+ 	position: relative;
+ 	
+
+ }
+ .subl{
+ 	border: 3px solid white;
+ 	width: 9%;
+ 	position: relative;
+ 	left:600px;
+ 	bottom: 220px;
+ }
+ .ooo{
+ 	position: relative;
+ 	left: 30px;
+
+ }
+ .yong3{
+ 	width: 84.1%;
+ 	position: relative;
+ 	left: 70px;
+ 	bottom: 100px;
+ }
+.after{
+  position: relative;
+  left: 70px;
+  bottom: 60px;
+  width: 50%;
+}
+
+
+
+@media(min-width: 768px) and (max-width: 992px){
+	.body{
+	border:1px solid black;
+	height: 3753px;
+	width: 99.6%;
+	position: relative;
+	background: #d9d7d7f9;
+
+}
+	.foto{
+	border: 1px solid black;
+	background: url(For.png) no-repeat center center;
+	 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	height: 300px;
+	width: 99.7%;
+	position: relative;
+	
+
+}
+    .panel{
+	
+    justify-content: center;
+	align-items: center;
+	position: relative;
+
+	} 
+
+.list{
+	
+	display: flex;
+	list-style: none;
+	bottom: 10px;
+	position: relative;
+	width: 65%;
+	left: 110px;
+}
+.Anat{
+	position: relative;
+	left: 5px;
+	top:20px;
+	font-size:20px;
+	width: 11%
+
+}
+.key1{
+	font-size: 12px;
+	position: relative;
+	left: 25px;
+} 
+.key2{
+	font-size: 12px;
+	position: relative;
+	left: 23px;
+}
+.face{
+	float: right;
+	position: relative;
+	bottom: 40px;
+	margin-right: 30px;
+	
+}
+
+
+
+
+
+
+
+
+.body{
+
+	border:1px solid black;
+	height: 4295px;
+	width: 99.7%;
+	position: relative;
+	background: #d9d7d7f9;
+
+}
+.central{
+	
+	background: #d9d7d7f9;
+	height: 70px;
+}
+	input {
+  
+  color: #B6C0A5; 
+  font-style: italic; 
+  background: #d9d7d7f9;
+  
+}
+
+.part-one{
+	
+	position: relative;
+	float: right;
+	margin-right: 50px;
+	
+	height: 1000px;
+	width: 40%;
+}
+.menu{
+	
+	left: 50px;
+	
+   
+   
+   
+
+  
+
+
+}
+.picture1{
+	
+	right: 100px;
+}
+.rot{
+	
+	top: 30px;
+	left: 100px;
+	width: 50%;
+
+	
+
+}
+.text{
+
+	left: 150px;
+	font-size: 12px;
+	width: 45.1%;
+	bottom: 62px;
+	
+
+
+}
+.photo{
+	
+	
+	left: 195px;
+    width: 50%;
+    top:57px;
+
+
+}
+.bor{
+	width: 110px;
+	height: 110px;
+	
+}
+.hr{
+	margin-bottom: 30px;
+    font-size: 10px;
+	position: relative;
+	left: 200px;
+	width: 50%;
+	top:60px;
+}
+
+
+.window{
+	
+	position: relative;
+	top:25px;
+	left: 100px;
+	width: 50%
+   
+}
+.door{
+	
+	position: relative;
+	margin-top: 100px;
+	left: 100px;
+	width: 50%;
+}
+.hr1{
+	margin-bottom: 20px;
+	font-size: 10px;
+	
+}
+
+.ter{
+	
+	position: relative;
+	left: 100px;
+	
+	width: 50%;
+}
+.galary{
+	
+	position: relative;
+	top:20px;
+
+}
+.mono{
+	top:30px;
+	position: relative;
+	
+	width: 80%;
+	height: 400px;
+	left: 100px;
+}
+.dock{
+	
+	
+}
+
+.display{
+	
+	position: relative;
+	width: 20%;
+
+}
+.boxer{
+	
+}
+.zxc{
+	position: relative;
+	left: 2px;
+}
+.rtx{
+	
+}
+.txt1{
+	
+}
+input[name=panel]{
+	width: 150px;
+	position: relative;
+	left: 350px;
+	
+}
+input[name=pane]{
+	width: 150px;
+	position: relative;
+	left: 194px;
+}
+input[name=pane1]{
+	width: 150px;
+	position: relative;
+	left: 200px;
+	bottom: 350px;
+}
+input[name=pane12]{
+	width: 150px;
+	position: relative;
+	left: 44px;
+	bottom: 270px;
+}
+input[name=pane123]{
+	width: 315px;
+	position: relative;
+	left: 350px;
+	height: 60px;
+}
+.ooo{
+	border: 1px solid black;
+	position: relative;
+	left: 1px;
+}
+.after{
+	color: white;
+	border: 1px solid black;
+}
+
+	
+	.zmz{
+		
+		width: 30%;
+	}
+
+	.black{
+		font-size: 12px;
+
+	}
+	.yong3{
+		position: relative;
+		bottom: 80px;
+
+	}
+	.nono{
+		width: 70px;
+		height: 70px;
+	}
+   .subl{
+   	position: relative;
+   left: 350px;
+   }
+	
+
+
+
+}
+@media(min-width: 400px) and (max-width: 768px){
+
+.body{
+	
+	height: 3985px;
+	width: 99.6%;
+	position: relative;
+	background: #d9d7d7f9;
+
+}
+	.foto{
+	border: 1px solid black;
+	background: url(For.png) no-repeat center center;
+	 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	height: 300px;
+	width: 99.6%;
+	position: relative;
+	
+	
+
+}
+
+    .panel{
+	
+    justify-content: center;
+	align-items: center;
+	position: relative;
+	height: 80px;
+
+	} 
+	
+	
+	.pov{
+	display: flex;
+	font-size: 10px;
+	padding: 5px;
+	}
+
+.list{
+	
+	display: flex;
+	list-style: none;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	left: 160px;
+	bottom: 14px;
+	font-size: 10px;
+	height: 100px;
+	
+
+}
+.key1{
+	position: relative;
+	bottom: 30px;
+	left: 80px;
+}
+.key2{
+	position: relative;
+	padding: 5px;
+	right: 160px;
+}
+
+.Anat{
+	position: relative;
+	left: 5px;
+	top:15px;
+	font-size:20px;
+	width: 11%
+
+}
+
+.face{
+	float: right;
+	position: relative;
+	bottom:70px;
+	
+	display: flex;
+	left: 35px;
+
+	
+
+	
+}
+.book{
+	width: 15px;
+	height: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+.central{
+	
+	background: #d9d7d7f9;
+	height: 70px;
+}
+	input {
+  
+  color: #B6C0A5; 
+  font-style: italic; 
+  background: #d9d7d7f9;
+  display: flex;
+  
+}
+
+.part-one{
+
+	
+	position: relative;
+	float: right;
+	margin-right: 50px;
+	
+	height: 1000px;
+	width: 40%;
+}
+.menu{
+	
+	left: 50px;
+	display: flex;
+	
+   
+   
+   
+
+  
+
+
+}
+.picture1{
+	
+	right: 100px;
+}
+.rot{
+	
+	
+	width: 50%;
+	font-size: 15px;
+
+	
+
+}
+.ron{
+	position: relative;
+	bottom:20px;
+	right: 30px;
+}
+.text{
+
+	left: 150px;
+	font-size: 8px;
+	width: 45.1%;
+	bottom: 70px;
+	
+
+
+}
+.photo{
+	
+	
+	left: 169px;
+    width: 50%;
+    top:15px;
+
+
+}
+.bor{
+	width: 80px;
+	height: 80px;
+	
+}
+.hr{
+	margin-bottom: 30px;
+    font-size: 7px;
+	position: relative;
+	left: 169px;
+	top:10px;
+	
+}
+
+
+.window{
+	
+	position: relative;
+	top:25px;
+	left: 100px;
+	width: 50%
+   
+}
+.door{
+	
+	position: relative;
+	margin-top: 100px;
+	left: 100px;
+	width: 50%;
+}
+.hr1{
+	margin-bottom: 20px;
+	font-size: 7px;
+	
+}
+.home{
+	font-size: 12px;
+	position: relative;
+	bottom: 70px;
+	right: 30px;
+
+}
+.home2{
+	position: relative;
+	font-size: 12px;
+	right: 30px;
+	bottom: 100px;
+}
+
+.ter{
+	font-size: 17px;
+	bottom: 100px;
+	position: relative;
+	
+}
+.galary{
+	position: relative;
+	right: 30px;
+}
+
+
+.nono{
+	position: relative;
+	bottom: 100px;
+
+}
+.dock{
+	
+	
+}
+.read{
+	position: relative;
+	right: 10px;
+}
+
+.display{
+	
+	position: relative;
+	width: 25%;
+
+}
+
+.zxc{
+	position: relative;
+	left: 2px;
+}
+.rtx{
+	font-size: 13px;
+	
+}
+.fox{
+	position: relative;
+	right: 250px;
+	font-size: 10px;
+}
+.txt1{
+	
+}
+input[name=panel]{
+	position: relative;
+	font-size: 15px;
+	width: 150px;
+	height:40px;
+	left: 270px;
+	bottom: 440px;
+
+	
+}
+input[name=pane]{
+	position: relative;
+	font-size: 15px;
+	width: 150px;
+	height:40px;
+	bottom: 425px;
+	left: 270px;
+}
+input[name=pane1]{
+	position: relative;
+	font-size: 15px;
+	width: 150px;
+	bottom: 410px;
+	left: 270px;
+	height: 40px;
+}
+input[name=pane12]{
+	position: relative;
+	font-size: 15px;
+	width: 150px;
+	bottom: 395px;
+	left: 270px;
+	height: 40px;
+}
+input[name=pane123]{
+	position: relative;
+	font-size: 15px;
+	width: 212px;
+	bottom: 380px;
+	left: 240px;
+	height: 80px;
+}
+.ooo{
+	border: 1px solid black;
+	position: relative;
+	left: 15px;
+}
+.subl{
+	position: relative;
+	bottom: 395px;
+	width: 20%;
+	
+}	
+
+
+.rooo{
+	position: relative;
+	bottom: 18px;
+}
+.wooo{
+	position: relative;
+	bottom: 35px;
+}
+.yooo{
+	position: relative;
+	bottom: 52px;
+}
+.after{
+	color: white;
+	
+}
+.tooo{
+	width: 40%;
+	position: relative;
+	left: 30px;
+	top:25px;
+
+}
+
+.alan{
+	width: 40%;
+	position: relative;
+	left: 60px;
+}
+.face1{
+	position: relative;
+	bottom: 65px;
+
+}
+
+
+	
+	.zmz{
+		
+		width: 30%;
+	}
+
+	.black{
+		font-size: 12px;
+		height: 650px;
+
+
+
+
+
+	}
+	
+	
+	.yong3{
+		position: relative;
+		bottom: 260px;
+		left: 30px;
+		width: 88%;
+
+	}
+	.nono{
+		width: 70px;
+		height: 70px;
+	}
+   .subl{
+   	position: relative;
+   left: 240px;
+   bottom: 350px;
+   }
+   .after{
+     position: relative;
+     bottom: 240px;
+     left: 30px;
+   }
+
+
+
+
+
+
+   .part-two{
+   	display: flex;
+	position: relative;
+	
+
+
+}
+.soft{
+	
+	width: 80%;
+}
+.soft2{
+	
+	width: 80%;
+}
+.Sasuke{
+	
+	background: url(Doroga.png) no-repeat center center;
+	position: relative;
+	height: 200px;
+	width: 200px;
+		left: 70px;
+}
+.Sasuke1{
+	
+	background: url(people.png) no-repeat center center;
+	position: relative;
+	height: 200px;
+	width: 200px;		
+	left: 70px;
+}
+.Sasuke2{
+	
+	background: url(door.png) no-repeat center center;
+	position: relative;
+	height: 200px;
+	width: 200px;
+	left: 70px;
+}
+.Sasuke3{
+	
+	background: url(water.png) no-repeat center center;
+	position: relative;
+	height: 200px;
+	width: 200px;
+	left: 70px;
+}
+
+.txt1{
+	position: relative;
+	left: 75px;
+	margin-top: 20px;
+	width: 40%;
+	
+	font-size: 20px;
+	display: flex;
+}
+
+.txt2{
+	position: relative;
+	left: 75px;
+	width: 40%;
+	display: flex;
+	font-size: 17px;
+
+
+}
+.fade{
+	position: relative;
+	height: 50px;
+	max-width: 79%;
+	width:79%;
+}
+.yong{
+	margin-top:15px;
+	position: relative;
+	left: 75px;
+
+}
+
+.sms{
+
+padding:3px;
+}
+.zmz{
+	display: flex;
+	position: relative;
+	left: 70px;
+}
+.yong2{
+	margin-top:5px;
+	position: relative;
+	left: 75px;
+}
+.rtx{
+	margin-top:20px;
+	position: relative;
+	
+	left: 75px;
+	width: 50%;
+}
+.display{
+	padding:10px;
+	border:3px solid black;
+	position:relative;
+	left: 76.3px;
+	margin-top:20px;
+	display: flex;
+	list-style: none;
+	font-size: 10px;
+}
+
+.display:hover{
+	background: red;
+	color:white;
+}
+.inp{
+	border:1px solid green;
+	height: 200px;
+	position: relative;
+	bottom: 55px;
+}
+
+
+
+
+}
+
+
+
+
+ 
